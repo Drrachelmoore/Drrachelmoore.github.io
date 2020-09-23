@@ -81,8 +81,8 @@ analytics:
 # Site Author
 author:
   name             : "Rachel Moore"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  avatar           : "20200812_102256 (2).jpg"
+  bio              : "Postdoc - Georgia Tech"
   location         : "Atlanta, Georgia"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -96,14 +96,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "Drrachelmoore"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0003-2776-3254"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
