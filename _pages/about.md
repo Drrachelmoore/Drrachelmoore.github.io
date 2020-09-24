@@ -1,16 +1,11 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
+title: "About"
+excerpt: "About"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am a Postdoctoral fellow at the Georgia Institute of Technology. I am a member of the School of Earth and Atmospheric Sciences in the Carr Lab. I obtained my PhD in Microbiology and Cell Science at the University of Florida. 
-
-Welcome to my site
-======
-Thank you for visiting! 
-The purpose of this site is to give background on my professional and academic journey. Here you can find more information on my research.
+Rachel Moore is a Postdoctoral fellow at the Georgia Institute of Technology in Atlanta, GA. She a recently joined the Carr Lab in the School of Earth and Atmospheric Sciences. She serves as a researcher for several astrobiology-related projects. Previously, she served as a Graduate Research Assistant at the University of Florida in the Department of Microbiology and Cell Science. 
