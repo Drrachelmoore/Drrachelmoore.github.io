@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
 venue: "University of Florida, Microbiology and Cell Science"
-date: 2016 - 2020
+date: 2016-09-01
 location: "Gainesville, FL, USA"
 ---
 Level 3020 and 2000
