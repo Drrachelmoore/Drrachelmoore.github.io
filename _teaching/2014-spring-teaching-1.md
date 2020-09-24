@@ -1,20 +1,13 @@
 ---
-title: "Teaching experience 1"
+title: "Microbiology Laboratory"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "University of Florida, Microbiology and Cell Science"
+date: 2016 - 2020
+location: "Gainesville, FL, USA"
 ---
-
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+Level 3020 and 2000
+• Instructed 200+ students in multiple Intro to Microbiology (2000L, 3020L) sections
+• Created and evaluated weekly laboratory assignments, quizzes, exams, and projects
+• Held weekly office hours and study sessions to ensure students understood the details
