@@ -8,8 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Text
+I am a Postdoctoral fellow at the Georgia Institute of Technology. I am a member of the School of Earth and Atmospheric Sciences in the Carr Lab. I obtained my PhD in Microbiology and Cell Science at the University of Florida. 
 
-Research interests
+Welcome to my site
 ======
-text
+Thank you for visiting! 
+The purpose of this site is to give background on my professional and academic journey. Here you can find more information on my research.
